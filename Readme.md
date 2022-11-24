@@ -1,6 +1,5 @@
-Thanks for downloading this template!
 
-Name: foodiez
-URL: 
+Name: Tryst Website
+URL:
 Author: georgethedeveloper.com
 License:
